@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1759791318962,
+    "name": "ESTADISTICA",
+    "categories": [
+      {
+        "name": "Exámenes",
+        "points": 7,
+        "grades": []
+      },
+      {
+        "name": "Pruebas",
+        "points": 5,
+        "grades": []
+      },
+      {
+        "name": "Otros",
+        "points": 4,
+        "grades": []
+      },
+      {
+        "name": "Tareas",
+        "points": 4,
+        "grades": []
+      }
+    ],
+    "createdAt": "2025-10-06T22:55:18.963Z"
+  }
+]
