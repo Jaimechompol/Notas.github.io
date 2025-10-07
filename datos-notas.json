@@ -4,7 +4,7 @@
     "name": "ESTADISTICA",
     "categories": [
       {
-        "name": "Exámenes",
+        "name": "ExÃ¡menes",
         "points": 7,
         "grades": []
       },
@@ -25,5 +25,37 @@
       }
     ],
     "createdAt": "2025-10-06T22:55:18.963Z"
+  },
+  {
+    "id": 1759841590613,
+    "name": "INTERFACES Y MULTIMEDIA",
+    "categories": [
+      {
+        "name": "Exámenes",
+        "points": 7,
+        "grades": []
+      },
+      {
+        "name": "Pruebas",
+        "points": 3,
+        "grades": []
+      },
+      {
+        "name": "Proyectos",
+        "points": 4,
+        "grades": []
+      },
+      {
+        "name": "Laboratorios",
+        "points": 4,
+        "grades": []
+      },
+      {
+        "name": "Tareas",
+        "points": 2,
+        "grades": []
+      }
+    ],
+    "createdAt": "2025-10-07T12:53:10.613Z"
   }
 ]
