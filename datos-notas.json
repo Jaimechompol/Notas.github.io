@@ -84,5 +84,37 @@
       }
     ],
     "createdAt": "2025-10-07T15:57:34.749Z"
+  },
+  {
+    "id": 1760361598757,
+    "name": "REDES DE COMUNICACION",
+    "categories": [
+      {
+        "name": "Exámenes",
+        "points": 7,
+        "grades": []
+      },
+      {
+        "name": "Tareas",
+        "points": 3,
+        "grades": []
+      },
+      {
+        "name": "Laboratorio ",
+        "points": 3,
+        "grades": []
+      },
+      {
+        "name": "Evaluacion continua ",
+        "points": 5,
+        "grades": []
+      },
+      {
+        "name": "Proyecto breve",
+        "points": 2,
+        "grades": []
+      }
+    ],
+    "createdAt": "2025-10-13T13:19:58.757Z"
   }
 ]
