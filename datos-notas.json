@@ -13,7 +13,9 @@
       {
         "name": "Pruebas",
         "points": 5,
-        "grades": []
+        "grades": [
+          11
+        ]
       },
       {
         "name": "Otros",
