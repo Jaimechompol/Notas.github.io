@@ -20,7 +20,9 @@
       {
         "name": "Otros",
         "points": 4,
-        "grades": []
+        "grades": [
+          18
+        ]
       },
       {
         "name": "Tareas",
