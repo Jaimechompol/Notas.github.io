@@ -6,7 +6,9 @@
       {
         "name": "Examenes",
         "points": 7,
-        "grades": []
+        "grades": [
+          10.9
+        ]
       },
       {
         "name": "Pruebas",
@@ -90,7 +92,7 @@
     "name": "REDES DE COMUNICACION",
     "categories": [
       {
-        "name": "Exámenes",
+        "name": "ExÃ¡menes",
         "points": 7,
         "grades": []
       },
