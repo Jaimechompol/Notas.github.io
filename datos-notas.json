@@ -114,7 +114,9 @@
       {
         "name": "Laboratorio ",
         "points": 3,
-        "grades": []
+        "grades": [
+          18.67
+        ]
       },
       {
         "name": "Evaluacion continua ",
