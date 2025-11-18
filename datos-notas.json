@@ -148,7 +148,9 @@
       {
         "name": "Proyectos",
         "points": 3,
-        "grades": []
+        "grades": [
+          16.6
+        ]
       },
       {
         "name": "Laboratorios",
