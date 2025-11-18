@@ -107,5 +107,37 @@
       }
     ],
     "createdAt": "2025-10-13T13:19:58.757Z"
+  },
+  {
+    "id": 1763493856288,
+    "name": "ADMINISTRACION Y MANTENIMIENTO DEL SISTEMA",
+    "categories": [
+      {
+        "name": "Exámenes",
+        "points": 7,
+        "grades": []
+      },
+      {
+        "name": "Tareas",
+        "points": 3,
+        "grades": []
+      },
+      {
+        "name": "Evaluaciones en linea",
+        "points": 4,
+        "grades": []
+      },
+      {
+        "name": "Proyectos",
+        "points": 3,
+        "grades": []
+      },
+      {
+        "name": "Laboratorios",
+        "points": 3,
+        "grades": []
+      }
+    ],
+    "createdAt": "2025-11-18T19:24:16.288Z"
   }
 ]
