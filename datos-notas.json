@@ -128,7 +128,9 @@
       {
         "name": "Evaluaciones en linea",
         "points": 4,
-        "grades": []
+        "grades": [
+          14.36
+        ]
       },
       {
         "name": "Proyectos",
