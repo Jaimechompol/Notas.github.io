@@ -47,7 +47,9 @@
       {
         "name": "Pruebas",
         "points": 3,
-        "grades": []
+        "grades": [
+          17.19
+        ]
       },
       {
         "name": "Proyectos",
