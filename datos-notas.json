@@ -116,7 +116,9 @@
       {
         "name": "Proyecto breve",
         "points": 2,
-        "grades": []
+        "grades": [
+          17.67
+        ]
       }
     ],
     "createdAt": "2025-10-13T13:19:58.757Z"
