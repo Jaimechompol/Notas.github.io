@@ -62,7 +62,9 @@
       {
         "name": "Tareas",
         "points": 2,
-        "grades": []
+        "grades": [
+          18.38
+        ]
       }
     ],
     "createdAt": "2025-10-07T12:53:10.613Z"
