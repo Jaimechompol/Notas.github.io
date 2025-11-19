@@ -92,7 +92,9 @@
       {
         "name": "Tareas",
         "points": 3,
-        "grades": []
+        "grades": [
+          19
+        ]
       },
       {
         "name": "Laboratorio ",
