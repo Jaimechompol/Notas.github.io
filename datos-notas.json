@@ -108,7 +108,9 @@
       {
         "name": "Evaluacion continua ",
         "points": 5,
-        "grades": []
+        "grades": [
+          16
+        ]
       },
       {
         "name": "Proyecto breve",
