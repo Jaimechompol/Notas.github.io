@@ -8,7 +8,9 @@
         "points": 7,
         "parciales": {
           "parcial1": {
-            "grades": []
+            "grades": [
+              16
+            ]
           },
           "parcial2": {
             "grades": []
