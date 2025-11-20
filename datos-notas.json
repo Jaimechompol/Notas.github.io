@@ -237,7 +237,9 @@
         "points": 2,
         "parciales": {
           "parcial1": {
-            "grades": []
+            "grades": [
+              19
+            ]
           },
           "parcial2": {
             "grades": []
