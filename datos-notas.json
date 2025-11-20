@@ -201,7 +201,9 @@
         "parciales": {
           "parcial1": {
             "grades": [
-              15
+              15,
+              19,
+              10
             ]
           },
           "parcial2": {
