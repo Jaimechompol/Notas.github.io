@@ -85,7 +85,9 @@
       {
         "name": "Examenes",
         "points": 7,
-        "grades": []
+        "grades": [
+          8
+        ]
       },
       {
         "name": "Tareas",
