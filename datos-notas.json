@@ -48,10 +48,7 @@
       {
         "name": "Laboratorios",
         "points": 4,
-        "grades": [
-          15.63,
-          17.38
-        ]
+        "grades": []
       },
       {
         "name": "Tareas",
