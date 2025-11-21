@@ -358,5 +358,87 @@
       }
     ],
     "createdAt": "2025-11-20T21:29:25.280Z"
+  },
+  {
+    "id": 1763763840592,
+    "name": "ADMIN. Y MANTENIM. DE SISTEMAS",
+    "categories": [
+      {
+        "name": "Examenes",
+        "points": 7,
+        "parciales": {
+          "parcial1": {
+            "grades": []
+          },
+          "parcial2": {
+            "grades": []
+          },
+          "parcial3": {
+            "grades": []
+          }
+        }
+      },
+      {
+        "name": "Pruebas",
+        "points": 5,
+        "parciales": {
+          "parcial1": {
+            "grades": []
+          },
+          "parcial2": {
+            "grades": []
+          },
+          "parcial3": {
+            "grades": []
+          }
+        }
+      },
+      {
+        "name": "Tareas",
+        "points": 2,
+        "parciales": {
+          "parcial1": {
+            "grades": []
+          },
+          "parcial2": {
+            "grades": []
+          },
+          "parcial3": {
+            "grades": []
+          }
+        }
+      },
+      {
+        "name": "Laboraatorio",
+        "points": 2,
+        "parciales": {
+          "parcial1": {
+            "grades": []
+          },
+          "parcial2": {
+            "grades": []
+          },
+          "parcial3": {
+            "grades": []
+          }
+        }
+      },
+      {
+        "name": "Proyectos",
+        "points": 4,
+        "parciales": {
+          "parcial1": {
+            "grades": []
+          },
+          "parcial2": {
+            "grades": []
+          },
+          "parcial3": {
+            "grades": []
+          }
+        }
+      }
+    ],
+    "createdAt": "2025-11-21T22:24:00.592Z"
   }
 ]
