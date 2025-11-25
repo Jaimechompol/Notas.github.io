@@ -49,7 +49,9 @@
             ]
           },
           "parcial2": {
-            "grades": []
+            "grades": [
+              18
+            ]
           },
           "parcial3": {
             "grades": []
@@ -75,7 +77,8 @@
       }
     ],
     "createdAt": "2025-11-20T21:11:05.969Z"
-  },{
+  },
+  {
     "id": 1763674083312,
     "name": "INTERFACES Y MULTIMEDIA",
     "categories": [
