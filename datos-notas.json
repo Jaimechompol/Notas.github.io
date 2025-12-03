@@ -1,1 +1,367 @@
-[]
+[
+  {
+    "id": 1763673065969,
+    "name": "ESTADISTICA",
+    "categories": [
+      {
+        "name": "Examenes",
+        "points": 7,
+        "parciales": {
+          "parcial1": {
+            "grades": [
+              10.9
+            ]
+          },
+          "parcial2": {
+            "grades": []
+          },
+          "parcial3": {
+            "grades": []
+          }
+        }
+      },
+      {
+        "name": "Pruebas",
+        "points": 5,
+        "parciales": {
+          "parcial1": {
+            "grades": [
+              11
+            ]
+          },
+          "parcial2": {
+            "grades": []
+          },
+          "parcial3": {
+            "grades": []
+          }
+        }
+      },
+      {
+        "name": "Tareas",
+        "points": 4,
+        "parciales": {
+          "parcial1": {
+            "grades": [
+              19,
+              18,
+              19
+            ]
+          },
+          "parcial2": {
+            "grades": [
+              18,
+              19
+            ]
+          },
+          "parcial3": {
+            "grades": []
+          }
+        }
+      },
+      {
+        "name": "Otros",
+        "points": 4,
+        "parciales": {
+          "parcial1": {
+            "grades": [
+              20
+            ]
+          },
+          "parcial2": {
+            "grades": []
+          },
+          "parcial3": {
+            "grades": []
+          }
+        }
+      }
+    ],
+    "createdAt": "2025-11-20T21:11:05.969Z"
+  },
+  {
+    "id": 1763674083312,
+    "name": "INTERFACES Y MULTIMEDIA",
+    "categories": [
+      {
+        "name": "Examenes",
+        "points": 7,
+        "parciales": {
+          "parcial1": {
+            "grades": [
+              14
+            ]
+          },
+          "parcial2": {
+            "grades": []
+          },
+          "parcial3": {
+            "grades": []
+          }
+        }
+      },
+      {
+        "name": "Pruebas",
+        "points": 3,
+        "parciales": {
+          "parcial1": {
+            "grades": [
+              17.5
+            ]
+          },
+          "parcial2": {
+            "grades": []
+          },
+          "parcial3": {
+            "grades": []
+          }
+        }
+      },
+      {
+        "name": "Tareas",
+        "points": 4,
+        "parciales": {
+          "parcial1": {
+            "grades": [
+              15,
+              19,
+              10
+            ]
+          },
+          "parcial2": {
+            "grades": []
+          },
+          "parcial3": {
+            "grades": []
+          }
+        }
+      },
+      {
+        "name": "Laboratorio",
+        "points": 4,
+        "parciales": {
+          "parcial1": {
+            "grades": [
+              17,
+              17
+            ]
+          },
+          "parcial2": {
+            "grades": []
+          },
+          "parcial3": {
+            "grades": []
+          }
+        }
+      },
+      {
+        "name": "Proyectos",
+        "points": 2,
+        "parciales": {
+          "parcial1": {
+            "grades": [
+              19
+            ]
+          },
+          "parcial2": {
+            "grades": []
+          },
+          "parcial3": {
+            "grades": []
+          }
+        }
+      }
+    ],
+    "createdAt": "2025-11-20T21:28:03.312Z"
+  },
+  {
+    "id": 1763674165280,
+    "name": "REDES DE COMUNICACIONES",
+    "categories": [
+      {
+        "name": "Examenes",
+        "points": 7,
+        "parciales": {
+          "parcial1": {
+            "grades": [
+              10.86
+            ]
+          },
+          "parcial2": {
+            "grades": []
+          },
+          "parcial3": {
+            "grades": []
+          }
+        }
+      },
+      {
+        "name": "Pruebas",
+        "points": 5,
+        "parciales": {
+          "parcial1": {
+            "grades": [
+              16,
+              18
+            ]
+          },
+          "parcial2": {
+            "grades": []
+          },
+          "parcial3": {
+            "grades": []
+          }
+        }
+      },
+      {
+        "name": "Tareas",
+        "points": 3,
+        "parciales": {
+          "parcial1": {
+            "grades": [
+              19,
+              18
+            ]
+          },
+          "parcial2": {
+            "grades": []
+          },
+          "parcial3": {
+            "grades": []
+          }
+        }
+      },
+      {
+        "name": "Laboratorio",
+        "points": 3,
+        "parciales": {
+          "parcial1": {
+            "grades": [
+              19,
+              19
+            ]
+          },
+          "parcial2": {
+            "grades": []
+          },
+          "parcial3": {
+            "grades": []
+          }
+        }
+      },
+      {
+        "name": "Proyectos",
+        "points": 2,
+        "parciales": {
+          "parcial1": {
+            "grades": [
+              18
+            ]
+          },
+          "parcial2": {
+            "grades": []
+          },
+          "parcial3": {
+            "grades": []
+          }
+        }
+      }
+    ],
+    "createdAt": "2025-11-20T21:29:25.280Z"
+  },
+  {
+    "id": 1763763840592,
+    "name": "ADMIN. Y MANTENIM. DE SISTEMAS",
+    "categories": [
+      {
+        "name": "Examenes",
+        "points": 7,
+        "parciales": {
+          "parcial1": {
+            "grades": [
+              18.1
+            ]
+          },
+          "parcial2": {
+            "grades": []
+          },
+          "parcial3": {
+            "grades": []
+          }
+        }
+      },
+      {
+        "name": "Pruebas",
+        "points": 5,
+        "parciales": {
+          "parcial1": {
+            "grades": [
+              11.9
+            ]
+          },
+          "parcial2": {
+            "grades": [
+              1
+            ]
+          },
+          "parcial3": {
+            "grades": []
+          }
+        }
+      },
+      {
+        "name": "Tareas",
+        "points": 2,
+        "parciales": {
+          "parcial1": {
+            "grades": [
+              18,
+              18
+            ]
+          },
+          "parcial2": {
+            "grades": []
+          },
+          "parcial3": {
+            "grades": []
+          }
+        }
+      },
+      {
+        "name": "Laboraatorio",
+        "points": 2,
+        "parciales": {
+          "parcial1": {
+            "grades": [
+              20
+            ]
+          },
+          "parcial2": {
+            "grades": []
+          },
+          "parcial3": {
+            "grades": []
+          }
+        }
+      },
+      {
+        "name": "Proyectos",
+        "points": 4,
+        "parciales": {
+          "parcial1": {
+            "grades": [
+              18.2
+            ]
+          },
+          "parcial2": {
+            "grades": []
+          },
+          "parcial3": {
+            "grades": []
+          }
+        }
+      }
+    ],
+    "createdAt": "2025-11-21T22:24:00.592Z"
+  }
+]
