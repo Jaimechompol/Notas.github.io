@@ -72,7 +72,9 @@
             ]
           },
           "parcial2": {
-            "grades": []
+            "grades": [
+              20
+            ]
           },
           "parcial3": {
             "grades": []
