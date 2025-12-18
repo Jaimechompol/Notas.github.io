@@ -293,7 +293,9 @@
             "grades": []
           },
           "parcial3": {
-            "grades": []
+            "grades": [
+              8.14
+            ]
           }
         }
       },
