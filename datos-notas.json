@@ -250,7 +250,9 @@
             ]
           },
           "parcial2": {
-            "grades": []
+            "grades": [
+              14
+            ]
           },
           "parcial3": {
             "grades": []
