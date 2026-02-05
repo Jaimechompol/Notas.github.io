@@ -316,7 +316,9 @@
             ]
           },
           "parcial3": {
-            "grades": []
+            "grades": [
+              15
+            ]
           }
         }
       }
