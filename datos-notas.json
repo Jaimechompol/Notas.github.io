@@ -458,15 +458,15 @@
     "createdAt": "2025-11-21T22:24:00.592Z"
   },
   {
+    "status": "current",
     "id": 1770914275420,
     "name": "Métodos Numéricos",
     "code": "EXCT-A0810",
     "semester": 3,
-    "status": "current",
     "categories": [
       {
         "name": "Examenes",
-        "points": 7,
+        "points": 6,
         "parciales": {
           "parcial1": {
             "grades": []
