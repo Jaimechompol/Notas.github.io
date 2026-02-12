@@ -456,5 +456,90 @@
       }
     ],
     "createdAt": "2025-11-21T22:24:00.592Z"
+  },
+  {
+    "id": 1770914275420,
+    "name": "Métodos Numéricos",
+    "code": "EXCT-A0810",
+    "semester": 3,
+    "status": "current",
+    "categories": [
+      {
+        "name": "Examenes",
+        "points": 7,
+        "parciales": {
+          "parcial1": {
+            "grades": []
+          },
+          "parcial2": {
+            "grades": []
+          },
+          "parcial3": {
+            "grades": []
+          }
+        }
+      },
+      {
+        "name": "Pruebas",
+        "points": 4,
+        "parciales": {
+          "parcial1": {
+            "grades": []
+          },
+          "parcial2": {
+            "grades": []
+          },
+          "parcial3": {
+            "grades": []
+          }
+        }
+      },
+      {
+        "name": "Tareas",
+        "points": 2,
+        "parciales": {
+          "parcial1": {
+            "grades": []
+          },
+          "parcial2": {
+            "grades": []
+          },
+          "parcial3": {
+            "grades": []
+          }
+        }
+      },
+      {
+        "name": "Taller",
+        "points": 3,
+        "parciales": {
+          "parcial1": {
+            "grades": []
+          },
+          "parcial2": {
+            "grades": []
+          },
+          "parcial3": {
+            "grades": []
+          }
+        }
+      },
+      {
+        "name": "Proyectos",
+        "points": 4,
+        "parciales": {
+          "parcial1": {
+            "grades": []
+          },
+          "parcial2": {
+            "grades": []
+          },
+          "parcial3": {
+            "grades": []
+          }
+        }
+      }
+    ],
+    "createdAt": "2026-02-12T16:37:55.420Z"
   }
 ]
