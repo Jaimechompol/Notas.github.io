@@ -458,11 +458,11 @@
     "createdAt": "2025-11-21T22:24:00.592Z"
   },
   {
+    "status": "current",
     "id": 1776104420284,
     "name": "Modelos Discretos para Ingeniería",
     "code": "COMP-A0809",
     "semester": 3,
-    "status": "current",
     "categories": [
       {
         "name": "Examenes",
