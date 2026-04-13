@@ -543,11 +543,11 @@
     "createdAt": "2026-04-13T18:20:20.284Z"
   },
   {
+    "status": "current",
     "id": 1776104459332,
     "name": "Física I",
     "code": "EXCT-A0804",
     "semester": 2,
-    "status": "current",
     "categories": [
       {
         "name": "Examenes",
@@ -626,5 +626,90 @@
       }
     ],
     "createdAt": "2026-04-13T18:20:59.332Z"
+  },
+  {
+    "id": 1776104553749,
+    "name": "Aplicación de Sistemas Operativos",
+    "code": "COMP-A0815",
+    "semester": 5,
+    "status": "current",
+    "categories": [
+      {
+        "name": "Examenes",
+        "points": 7,
+        "parciales": {
+          "parcial1": {
+            "grades": []
+          },
+          "parcial2": {
+            "grades": []
+          },
+          "parcial3": {
+            "grades": []
+          }
+        }
+      },
+      {
+        "name": "Pruebas",
+        "points": 4,
+        "parciales": {
+          "parcial1": {
+            "grades": []
+          },
+          "parcial2": {
+            "grades": []
+          },
+          "parcial3": {
+            "grades": []
+          }
+        }
+      },
+      {
+        "name": "Tareas",
+        "points": 2,
+        "parciales": {
+          "parcial1": {
+            "grades": []
+          },
+          "parcial2": {
+            "grades": []
+          },
+          "parcial3": {
+            "grades": []
+          }
+        }
+      },
+      {
+        "name": "Taller",
+        "points": 3,
+        "parciales": {
+          "parcial1": {
+            "grades": []
+          },
+          "parcial2": {
+            "grades": []
+          },
+          "parcial3": {
+            "grades": []
+          }
+        }
+      },
+      {
+        "name": "Proyectos",
+        "points": 4,
+        "parciales": {
+          "parcial1": {
+            "grades": []
+          },
+          "parcial2": {
+            "grades": []
+          },
+          "parcial3": {
+            "grades": []
+          }
+        }
+      }
+    ],
+    "createdAt": "2026-04-13T18:22:33.749Z"
   }
 ]
