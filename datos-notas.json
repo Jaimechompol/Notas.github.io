@@ -625,8 +625,8 @@
         }
       },
       {
-        "name": "Proyectos",
-        "points": 4,
+        "name": "laboratorio",
+        "points": 2,
         "parciales": {
           "parcial1": {
             "grades": []
