@@ -610,8 +610,8 @@
         }
       },
       {
-        "name": "Taller",
-        "points": 3,
+        "name": "leccion oral",
+        "points": 2,
         "parciales": {
           "parcial1": {
             "grades": []
