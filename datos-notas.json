@@ -595,8 +595,8 @@
         }
       },
       {
-        "name": "Tareas",
-        "points": 2,
+        "name": "taller",
+        "points": 4,
         "parciales": {
           "parcial1": {
             "grades": []
