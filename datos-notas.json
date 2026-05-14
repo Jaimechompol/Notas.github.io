@@ -500,7 +500,8 @@
         "parciales": {
           "parcial1": {
             "grades": [
-              15
+              15,
+              18
             ]
           },
           "parcial2": {
